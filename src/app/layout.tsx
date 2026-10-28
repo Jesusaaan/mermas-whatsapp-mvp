@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mermas",
-  description: "Control de insumos desde WhatsApp",
+  title: "Mermas — Panel",
+  description: "Control de insumos y mermas para restaurantes, desde WhatsApp",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
