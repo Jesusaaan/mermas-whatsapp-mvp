@@ -1,0 +1,5 @@
+1. Crea el proyecto con el comando PowerShell entregado en ChatGPT.
+2. Descarga este ZIP y extrae los dos archivos CLAUDE.md y PROMPT_01.txt en la RAÍZ del proyecto (la carpeta donde está package.json).
+3. Abre PowerShell dentro de ese proyecto y ejecuta claude.cmd (o la ruta alternativa si el comando no se encuentra).
+4. Dentro de la interfaz de Claude Code (NO en PowerShell), pega el contenido de PROMPT_01.txt.
+5. No pegues secretos en el chat ni subas archivos .env.local a GitHub.
